@@ -24,7 +24,7 @@ commands.
 - `/preskoči`: Skip the current song.
 - `/upomoć`: List all available commands.
 
-## prerequisites
+## Prerequisites
 
 - Have Docker installed
 - Have a Discord bot with `Message Content Intent` enabled, which you can do [here](https://discord.com/developers/applications) under the `Bot` setting
