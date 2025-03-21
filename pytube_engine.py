@@ -3,7 +3,7 @@ from typing import List
 from discord.app_commands import Choice
 from pytubefix import YouTube, Stream
 from pytubefix import Search
-from custom_types import Song
+from song import Song
 
 
 async def download_song(url: str) -> Song:

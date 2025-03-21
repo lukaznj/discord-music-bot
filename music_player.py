@@ -5,7 +5,7 @@ from typing import Final
 from discord import VoiceClient, Interaction, FFmpegPCMAudio
 from dotenv import load_dotenv
 
-from custom_types import Song
+from song import Song
 from embeds import playing_now_embed
 from song_queue import SongQueue
 

@@ -2,7 +2,7 @@ import os
 from discord.app_commands import Choice
 from dotenv import load_dotenv
 from pytubefix import Search
-from custom_types import Song
+from song import Song
 from embeds import added_to_queue_embed, show_queue_embed, help_embed
 from helpers import is_url
 from music_player import MusicPlayer

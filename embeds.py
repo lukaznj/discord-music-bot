@@ -2,7 +2,7 @@ from typing import List
 
 from discord import Embed, Colour, Interaction
 
-from custom_types import Song
+from song import Song
 from helpers import seconds_to_mmss
 from song_queue import SongQueue
 

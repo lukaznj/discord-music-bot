@@ -2,7 +2,7 @@ import re
 from re import Pattern
 from discord import Embed, Colour, Interaction
 
-from custom_types import Song
+from song import Song
 
 
 def seconds_to_mmss(seconds: int) -> str:

@@ -1,5 +1,5 @@
 from typing import List
-from custom_types import Song
+from song import Song
 
 
 class SongQueue:
